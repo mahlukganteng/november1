@@ -1,6 +1,6 @@
 <?php date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-echo color("green","[]      mahlukganteng      []\n");
+
 echo color("green","[]  Time  : ".date('[d-m-Y] [H:i:s]')."   []\n");
 
 function change(){
