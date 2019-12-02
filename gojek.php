@@ -1,6 +1,7 @@
 <?php date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-
+clear
+echo color("green","[]      Memru Nov v.1    Gunakan 62...    []\n");
 echo color("green","[]      Gunakan 62....      []\n");
 echo color("green","[]  Time  : ".date('[d-m-Y] [H:i:s]')."   []\n");
 
