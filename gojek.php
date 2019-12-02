@@ -1,6 +1,6 @@
 <?php date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-echo color("green","[]  Gunakan awalan 62      []\n");
+echo color("green","[]  Gunakan awalan 62      []\n");v
 echo color("green","[]  Time  : ".date('[d-m-Y] [H:i:s]')."   []\n");
 
 function change(){
